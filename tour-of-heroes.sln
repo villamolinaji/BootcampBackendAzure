@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tour-of-heroes-delete", "tour-of-heroes-delete\tour-of-heroes-delete.csproj", "{44D022C3-D4A1-443D-9073-4F49EFCFFA7E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tour-of-heroes-api", "tour-of-heroes-dotnet-api-background-process\tour-of-heroes-api.csproj", "{18EAF486-31EC-4377-B7B2-B36131E5477E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D022C3-D4A1-443D-9073-4F49EFCFFA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D022C3-D4A1-443D-9073-4F49EFCFFA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D022C3-D4A1-443D-9073-4F49EFCFFA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D022C3-D4A1-443D-9073-4F49EFCFFA7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18EAF486-31EC-4377-B7B2-B36131E5477E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18EAF486-31EC-4377-B7B2-B36131E5477E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18EAF486-31EC-4377-B7B2-B36131E5477E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18EAF486-31EC-4377-B7B2-B36131E5477E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {219A1AB2-340B-40C3-B799-2CF99D82B33B}
+	EndGlobalSection
+EndGlobal
